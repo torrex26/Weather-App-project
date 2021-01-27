@@ -1,0 +1,552 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "weatherInfoCollectionViewCell"
+provides-nominal:
+- "10WeatherApp29weatherInfoCollectionViewCellC"
+provides-member:
+- ["10WeatherApp29weatherInfoCollectionViewCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "generateCell"
+- "infoBottomLabel"
+- "infoImageView"
+- "infoTopLabel"
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "UICollectionViewCell"
+- "UIImageView"
+- "UILabel"
+- "WeatherInfo"
+- !private "infoBottomLabel"
+- !private "infoImageView"
+- !private "infoTopLabel"
+- "weatherInfoCollectionViewCell"
+depends-member:
+- ["SK", ""]
+- ["So15CALayerDelegateP", "UIImageView"]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", "WeatherInfo"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "adjustsFontSizeToFitWidth"]
+- ["So15CALayerDelegateP", "awakeFromNib"]
+- ["So15CALayerDelegateP", "generateCell"]
+- !private ["So15CALayerDelegateP", "image"]
+- ["So15CALayerDelegateP", "infoBottomLabel"]
+- ["So15CALayerDelegateP", "infoImageView"]
+- ["So15CALayerDelegateP", "infoTopLabel"]
+- ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "isHidden"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "adjustsFontSizeToFitWidth"]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "generateCell"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "infoBottomLabel"]
+- !private ["s7CVarArgP", "infoImageView"]
+- !private ["s7CVarArgP", "infoTopLabel"]
+- !private ["s7CVarArgP", "isHidden"]
+- !private ["s7CVarArgP", "text"]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "adjustsFontSizeToFitWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "generateCell"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "infoBottomLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "infoImageView"]
+- !private ["s28CustomDebugStringConvertibleP", "infoTopLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "isHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s17CustomReflectableP", "adjustsFontSizeToFitWidth"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "isHidden"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "adjustsFontSizeToFitWidth"]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "generateCell"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "infoBottomLabel"]
+- !private ["s23CustomStringConvertibleP", "infoImageView"]
+- !private ["s23CustomStringConvertibleP", "infoTopLabel"]
+- !private ["s23CustomStringConvertibleP", "isHidden"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["Se", "adjustsFontSizeToFitWidth"]
+- !private ["Se", "image"]
+- !private ["Se", "isHidden"]
+- !private ["Se", "text"]
+- !private ["SE", "adjustsFontSizeToFitWidth"]
+- !private ["SE", "image"]
+- !private ["SE", "isHidden"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "adjustsFontSizeToFitWidth"]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "generateCell"]
+- !private ["SQ", "image"]
+- !private ["SQ", "infoBottomLabel"]
+- !private ["SQ", "infoImageView"]
+- !private ["SQ", "infoTopLabel"]
+- !private ["SQ", "isHidden"]
+- !private ["SQ", "text"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "adjustsFontSizeToFitWidth"]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "isHidden"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- !private ["SH", "adjustsFontSizeToFitWidth"]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "generateCell"]
+- !private ["SH", "image"]
+- !private ["SH", "infoBottomLabel"]
+- !private ["SH", "infoImageView"]
+- !private ["SH", "infoTopLabel"]
+- !private ["SH", "isHidden"]
+- !private ["SH", "text"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "UIImageView"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", "WeatherInfo"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "adjustsFontSizeToFitWidth"]
+- ["So8NSCodingP", "awakeFromNib"]
+- ["So8NSCodingP", "generateCell"]
+- !private ["So8NSCodingP", "image"]
+- ["So8NSCodingP", "infoBottomLabel"]
+- ["So8NSCodingP", "infoImageView"]
+- ["So8NSCodingP", "infoTopLabel"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isHidden"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "WeatherInfo"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "adjustsFontSizeToFitWidth"]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "generateCell"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "infoBottomLabel"]
+- ["So8NSObjectC", "infoImageView"]
+- ["So8NSObjectC", "infoTopLabel"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isHidden"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectP", "UIImageView"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", "WeatherInfo"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "adjustsFontSizeToFitWidth"]
+- ["So8NSObjectP", "awakeFromNib"]
+- ["So8NSObjectP", "generateCell"]
+- !private ["So8NSObjectP", "image"]
+- ["So8NSObjectP", "infoBottomLabel"]
+- ["So8NSObjectP", "infoImageView"]
+- ["So8NSObjectP", "infoTopLabel"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isHidden"]
+- !private ["So8NSObjectP", "text"]
+- !private ["Sq", "adjustsFontSizeToFitWidth"]
+- !private ["Sq", "image"]
+- !private ["Sq", "isHidden"]
+- !private ["Sq", "text"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "isHidden"]
+- ["So29UIAccessibilityIdentificationP", "UIImageView"]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", "WeatherInfo"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "adjustsFontSizeToFitWidth"]
+- ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- ["So29UIAccessibilityIdentificationP", "generateCell"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- ["So29UIAccessibilityIdentificationP", "infoBottomLabel"]
+- ["So29UIAccessibilityIdentificationP", "infoImageView"]
+- ["So29UIAccessibilityIdentificationP", "infoTopLabel"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "isHidden"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- ["So12UIAppearanceP", "UIImageView"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", "WeatherInfo"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "adjustsFontSizeToFitWidth"]
+- ["So12UIAppearanceP", "awakeFromNib"]
+- ["So12UIAppearanceP", "generateCell"]
+- !private ["So12UIAppearanceP", "image"]
+- ["So12UIAppearanceP", "infoBottomLabel"]
+- ["So12UIAppearanceP", "infoImageView"]
+- ["So12UIAppearanceP", "infoTopLabel"]
+- ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "isHidden"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "UIImageView"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", "WeatherInfo"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "adjustsFontSizeToFitWidth"]
+- ["So21UIAppearanceContainerP", "awakeFromNib"]
+- ["So21UIAppearanceContainerP", "generateCell"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- ["So21UIAppearanceContainerP", "infoBottomLabel"]
+- ["So21UIAppearanceContainerP", "infoImageView"]
+- ["So21UIAppearanceContainerP", "infoTopLabel"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isHidden"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So24UICollectionReusableViewC", "UIImageView"]
+- ["So24UICollectionReusableViewC", "UILabel"]
+- ["So24UICollectionReusableViewC", "WeatherInfo"]
+- ["So24UICollectionReusableViewC", ""]
+- ["So24UICollectionReusableViewC", "awakeFromNib"]
+- ["So24UICollectionReusableViewC", "generateCell"]
+- ["So24UICollectionReusableViewC", "infoBottomLabel"]
+- ["So24UICollectionReusableViewC", "infoImageView"]
+- ["So24UICollectionReusableViewC", "infoTopLabel"]
+- ["So24UICollectionReusableViewC", "init"]
+- ["So20UICollectionViewCellC", "UIImageView"]
+- ["So20UICollectionViewCellC", "UILabel"]
+- ["So20UICollectionViewCellC", "WeatherInfo"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "awakeFromNib"]
+- ["So20UICollectionViewCellC", "generateCell"]
+- ["So20UICollectionViewCellC", "infoBottomLabel"]
+- ["So20UICollectionViewCellC", "infoImageView"]
+- ["So20UICollectionViewCellC", "infoTopLabel"]
+- ["So20UICollectionViewCellC", "init"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "adjustsFontSizeToFitWidth"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "isHidden"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- ["So17UICoordinateSpaceP", "UIImageView"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", "WeatherInfo"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "adjustsFontSizeToFitWidth"]
+- ["So17UICoordinateSpaceP", "awakeFromNib"]
+- ["So17UICoordinateSpaceP", "generateCell"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- ["So17UICoordinateSpaceP", "infoBottomLabel"]
+- ["So17UICoordinateSpaceP", "infoImageView"]
+- ["So17UICoordinateSpaceP", "infoTopLabel"]
+- ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "isHidden"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- ["So13UIDynamicItemP", "UIImageView"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", "WeatherInfo"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "adjustsFontSizeToFitWidth"]
+- ["So13UIDynamicItemP", "awakeFromNib"]
+- ["So13UIDynamicItemP", "generateCell"]
+- !private ["So13UIDynamicItemP", "image"]
+- ["So13UIDynamicItemP", "infoBottomLabel"]
+- ["So13UIDynamicItemP", "infoImageView"]
+- ["So13UIDynamicItemP", "infoTopLabel"]
+- ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "isHidden"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "UIImageView"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", "WeatherInfo"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "adjustsFontSizeToFitWidth"]
+- ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- ["So18UIFocusEnvironmentP", "generateCell"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- ["So18UIFocusEnvironmentP", "infoBottomLabel"]
+- ["So18UIFocusEnvironmentP", "infoImageView"]
+- ["So18UIFocusEnvironmentP", "infoTopLabel"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isHidden"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So11UIFocusItemP", "UIImageView"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", "WeatherInfo"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "adjustsFontSizeToFitWidth"]
+- ["So11UIFocusItemP", "awakeFromNib"]
+- ["So11UIFocusItemP", "generateCell"]
+- !private ["So11UIFocusItemP", "image"]
+- ["So11UIFocusItemP", "infoBottomLabel"]
+- ["So11UIFocusItemP", "infoImageView"]
+- ["So11UIFocusItemP", "infoTopLabel"]
+- ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "isHidden"]
+- !private ["So11UIFocusItemP", "text"]
+- ["So20UIFocusItemContainerP", "UIImageView"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", "WeatherInfo"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "adjustsFontSizeToFitWidth"]
+- ["So20UIFocusItemContainerP", "awakeFromNib"]
+- ["So20UIFocusItemContainerP", "generateCell"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- ["So20UIFocusItemContainerP", "infoBottomLabel"]
+- ["So20UIFocusItemContainerP", "infoImageView"]
+- ["So20UIFocusItemContainerP", "infoTopLabel"]
+- ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "isHidden"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So11UIImageViewC", "isHidden"]
+- !private ["So7UILabelC", "adjustsFontSizeToFitWidth"]
+- !private ["So7UILabelC", "isHidden"]
+- !private ["So7UILabelC", "text"]
+- ["So24UILargeContentViewerItemP", "UIImageView"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", "WeatherInfo"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "adjustsFontSizeToFitWidth"]
+- ["So24UILargeContentViewerItemP", "awakeFromNib"]
+- ["So24UILargeContentViewerItemP", "generateCell"]
+- !private ["So24UILargeContentViewerItemP", "image"]
+- ["So24UILargeContentViewerItemP", "infoBottomLabel"]
+- ["So24UILargeContentViewerItemP", "infoImageView"]
+- ["So24UILargeContentViewerItemP", "infoTopLabel"]
+- ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "isHidden"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "UIImageView"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", "WeatherInfo"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "adjustsFontSizeToFitWidth"]
+- ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- ["So30UIPasteConfigurationSupportingP", "generateCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- ["So30UIPasteConfigurationSupportingP", "infoBottomLabel"]
+- ["So30UIPasteConfigurationSupportingP", "infoImageView"]
+- ["So30UIPasteConfigurationSupportingP", "infoTopLabel"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "WeatherInfo"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "adjustsFontSizeToFitWidth"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "generateCell"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "infoBottomLabel"]
+- ["So11UIResponderC", "infoImageView"]
+- ["So11UIResponderC", "infoTopLabel"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isHidden"]
+- !private ["So11UIResponderC", "text"]
+- ["So30UIResponderStandardEditActionsP", "UIImageView"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", "WeatherInfo"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "adjustsFontSizeToFitWidth"]
+- ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- ["So30UIResponderStandardEditActionsP", "generateCell"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- ["So30UIResponderStandardEditActionsP", "infoBottomLabel"]
+- ["So30UIResponderStandardEditActionsP", "infoImageView"]
+- ["So30UIResponderStandardEditActionsP", "infoTopLabel"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So18UITraitEnvironmentP", "UIImageView"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", "WeatherInfo"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "adjustsFontSizeToFitWidth"]
+- ["So18UITraitEnvironmentP", "awakeFromNib"]
+- ["So18UITraitEnvironmentP", "generateCell"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- ["So18UITraitEnvironmentP", "infoBottomLabel"]
+- ["So18UITraitEnvironmentP", "infoImageView"]
+- ["So18UITraitEnvironmentP", "infoTopLabel"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isHidden"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So23UIUserActivityRestoringP", "UIImageView"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", "WeatherInfo"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "adjustsFontSizeToFitWidth"]
+- ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- ["So23UIUserActivityRestoringP", "generateCell"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- ["So23UIUserActivityRestoringP", "infoBottomLabel"]
+- ["So23UIUserActivityRestoringP", "infoImageView"]
+- ["So23UIUserActivityRestoringP", "infoTopLabel"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isHidden"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "WeatherInfo"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "adjustsFontSizeToFitWidth"]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "generateCell"]
+- !private ["So6UIViewC", "image"]
+- ["So6UIViewC", "infoBottomLabel"]
+- ["So6UIViewC", "infoImageView"]
+- ["So6UIViewC", "infoTopLabel"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "isHidden"]
+- !private ["So6UIViewC", "text"]
+- !private ["10WeatherApp0A4InfoV", "image"]
+- !private ["10WeatherApp0A4InfoV", "infoText"]
+- !private ["10WeatherApp0A4InfoV", "nameText"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "adjustsFontSizeToFitWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "generateCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "infoBottomLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "infoImageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "infoTopLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "adjustsFontSizeToFitWidth"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "awakeFromNib"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "generateCell"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "infoBottomLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "infoImageView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "infoTopLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "adjustsFontSizeToFitWidth"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "isHidden"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "adjustsFontSizeToFitWidth"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "generateCell"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "infoBottomLabel"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "infoImageView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "infoTopLabel"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isHidden"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "UIImageView"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "UILabel"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "WeatherInfo"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", ""]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "awakeFromNib"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "deinit"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "generateCell"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "infoBottomLabel"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "infoImageView"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "infoTopLabel"]
+- ["10WeatherApp29weatherInfoCollectionViewCellC", "init"]
+depends-nominal:
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- !private "So7UILabelC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "10WeatherApp0A4InfoV"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+- "10WeatherApp29weatherInfoCollectionViewCellC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/anton/Desktop/WeatherApp/DerivedData/WeatherApp/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0853317df5cce0e6b318244a5fe535a3"

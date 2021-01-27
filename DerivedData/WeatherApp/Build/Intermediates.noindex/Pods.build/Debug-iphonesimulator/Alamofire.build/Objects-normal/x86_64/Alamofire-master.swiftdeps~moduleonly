@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "78c8dacec52fd44231ae106842898f15"
+build_time: [1611596101, 749384000]
+inputs:
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/AFError.swift": [1611160265, 776821285]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Alamofire.swift": [1611160265, 778471691]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1611160265, 770967825]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/MultipartFormData.swift": [1611160265, 769948568]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1611160265, 770244944]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Notifications.swift": [1611160265, 777653347]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/ParameterEncoding.swift": [1611160265, 776300360]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Request.swift": [1611160265, 778856081]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Response.swift": [1611160265, 778060997]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/ResponseSerialization.swift": [1611160265, 780000647]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Result.swift": [1611160265, 775793040]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1611160265, 782041872]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/SessionDelegate.swift": [1611160265, 782487188]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/SessionManager.swift": [1611160265, 779397153]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/TaskDelegate.swift": [1611160265, 769704171]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Timeline.swift": [1611160265, 770493614]
+  "/Users/anton/Desktop/WeatherApp/Pods/Alamofire/Source/Validation.swift": [1611160265, 777228561]

@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "d6db91912fc5c30645c0d5dfe6eb726b"
+build_time: [1611596124, 878195000]
+inputs:
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Model/ForecastForEveryHour.swift": [1611177944, 783395767]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Extensions.swift": [1611438438, 392055511]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/WeatherVC.swift": [1611442731, 185767055]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Model/WeeklyWeatherForecast.swift": [1611176621, 687650919]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/AppDelegate.swift": [1611159463, 403392911]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Helper.swift": [1611428986, 960286021]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Model/CurrentWeather.swift": [1611352620, 493717790]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/WeatherInfo.swift": [1611529536, 779678822]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Views/WeatherInfoCollectionVC.swift": [1611531781, 116715908]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/SceneDelegate.swift": [1611159463, 409112453]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Views/ForecastCollectionViewCell.swift": [1611428987, 42009950]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Views/WeatherTableViewCell.swift": [1611438438, 335544586]
+  "/Users/anton/Desktop/WeatherApp/WeatherApp/Views/WeatherView.swift": [1611593142, 93158134]

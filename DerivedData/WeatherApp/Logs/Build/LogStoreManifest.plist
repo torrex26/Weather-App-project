@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8747972B-CB40-4F37-BD4C-60B0C198A1C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8747972B-CB40-4F37-BD4C-60B0C198A1C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>633288901.23992801</real>
+			<key>timeStoppedRecording</key>
+			<real>633288941.53941703</real>
+			<key>title</key>
+			<string>Build WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8747972B-CB40-4F37-BD4C-60B0C198A1C8</string>
+		</dict>
+		<key>99349BDE-991A-49C4-9946-1A9D17935203</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99349BDE-991A-49C4-9946-1A9D17935203.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>633288522.86829996</real>
+			<key>timeStoppedRecording</key>
+			<real>633288524.56335294</real>
+			<key>title</key>
+			<string>Build WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>99349BDE-991A-49C4-9946-1A9D17935203</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
